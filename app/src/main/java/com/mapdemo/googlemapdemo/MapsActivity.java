@@ -83,6 +83,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
             googleMaps.setMyLocationEnabled(true);
             googleMaps.getUiSettings().setMyLocationButtonEnabled(false);
             init();
+            Log.e(TAG, "git checkout");
        }
     }
 
