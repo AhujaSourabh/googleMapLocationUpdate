@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">GoogleMapDemo</string>
-    <string name="google_map_api_key">AIzaSyA88_vFwXGMOdoGBdEgJtmCRpMkr8gwyUM
-</string>
+    <string name="google_map_api_key">AIzaSyA88_vFwXGMOdoGBdEgJtmCRpMkr8gwyUM</string>
+    <string name="service_not_available">Google Map Service not Available</string>
+    <string name="invalid_lat_long_used">latitude longitude are invalid </string>
+    <string name="no_address_found">No address are found for this location</string>
+    <string name="address_found">Address found.</string>
 </resources>
